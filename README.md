@@ -2,7 +2,7 @@
 🔭 Working on real-world development projects  <br>🌱 Learning DSA & modern web technologies  <br>👯 Open to open-source collaboration  <br>💬 Ask me about web development & Git  <br>⚡ Fun fact: I love clean code and smart solutions<br>
 
 
-## 🌐 Socials:
+## 🌐 Reach me at:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_____bunny_bojja_____/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pavan-kumar-goud-bojja-738762279/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pavanbojja33@gmail.com) 
 
 # 💻 Tech Stack:
