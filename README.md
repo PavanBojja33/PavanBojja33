@@ -1,383 +1,297 @@
-# <div align="center">⚡ Pavan Bojja ⚡</div>
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0D1117,25:1F6FEB,50:58A6FF,75:7C3AED,100:0D1117&text=Pavan%20Bojja&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20MERN%20Engineer%20%7C%20Real-Time%20Web%20Apps%20%7C%20DSA&descAlignY=58&animation=fadeIn" width="100%"/>
+<!-- DYNAMIC BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Pavan%20Bojja&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20MERN%20Developer%20%7C%20DSA%20Enthusiast&descAlignY=58&descAlign=50&descSize=18" width="100%"/>
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+Production-Grade+Full-Stack+Applications;MERN+Stack+Developer+%7C+Real-Time+Systems;350%2B+DSA+Problems+Solved+on+LeetCode;Focused+on+Scalable+Software+and+Clean+Architecture;Open+to+Internships+%7C+Open+Source+%7C+Collaboration" />
-
-<br/>
-<br/>
-
-<a href="https://github.com/PavanBojja33">
-<img src="https://img.shields.io/github/followers/PavanBojja33?style=for-the-badge&logo=github&color=58A6FF&labelColor=0D1117"/>
-</a>
-
-<a href="https://www.linkedin.com/in/pavan-bojja-738762279/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:pavanbojja33@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/Pavan_Bojja/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<!-- TYPING ANIMATION -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+scalable+full-stack+applications;MERN+Stack+%7C+React+%7C+Node.js+%7C+MongoDB;Solving+problems+%E2%80%94+350%2B+LeetCode+%26+counting;Open+to+internships+%26+collaboration" alt="Typing SVG" />
 </a>
 
 <br/>
+
+<!-- PROFILE BADGES -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavan-bojja-738762279/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Pavan_Bojja/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PavanBojja33)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pavanbojja33@gmail.com)
+
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=PavanBojja33&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS"/>
+![Profile Views](https://komarev.com/ghpvc/?username=PavanBojja33&color=58A6FF&style=flat-square&label=Profile+Views)
+[![GitHub followers](https://img.shields.io/github/followers/PavanBojja33?label=Followers&style=flat-square&color=58A6FF)](https://github.com/PavanBojja33)
 
 </div>
 
 ---
 
-# 💫 About Me
+## About Me
+
+I'm a **Computer Science undergraduate** at CVR College of Engineering (CGPA: **9.11/10**) and a full-stack MERN developer with a genuine obsession for building clean, production-quality web applications. I combine solid fundamentals in **Data Structures & Algorithms** with practical engineering skills to ship software that scales.
+
+When I'm not writing code, I'm grinding LeetCode, exploring new technologies, or thinking about how to make the next project better than the last.
 
 ```ts
 const pavan = {
-    role: "Full-Stack MERN Developer",
-    education: "B.Tech CSE @ CVR College of Engineering",
-    cgpa: "9.11/10",
-    location: "Telangana, India",
-
-    specialisation: [
-        "Full-Stack Web Development",
-        "Real-Time Applications",
-        "REST API Development",
-        "Problem Solving & DSA"
-    ],
-
-    currentFocus: [
-        "System Design",
-        "TypeScript",
-        "Scalable Backend Architecture",
-        "AI-Assisted Development"
-    ],
-
-    techStack: {
-        frontend: ["React", "JavaScript", "Tailwind CSS"],
-        backend: ["Node.js", "Express.js"],
-        database: ["MongoDB", "MySQL"],
-        tools: ["Git", "GitHub", "Postman", "VS Code"]
-    },
-
-    currentlyBuilding: "Production-grade scalable web applications",
-
-    openTo: [
-        "Internships",
-        "Open Source",
-        "Freelance Projects",
-        "Developer Collaborations"
-    ]
+  location    : "Medak, Telangana, India",
+  education   : "B.Tech CSE @ CVR College of Engineering (2023–2027)",
+  cgpa        : 9.11,
+  focus       : ["Full-Stack Development", "DSA", "System Design"],
+  stack       : ["MERN", "React", "Node.js", "REST APIs", "MongoDB"],
+  currentlyLearning : ["System Design", "TypeScript", "AI-Assisted Development"],
+  openTo      : ["Internships", "Open Source", "Freelance Projects"],
+  funFact     : "I believe clean code is a form of respect — for your teammates and your future self."
 };
 ```
 
+---
+
+## Tech Stack
+
 <div align="center">
 
-### 🚀 I enjoy building scalable full-stack applications, solving DSA problems, and turning ideas into real-world software.
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+
+**Databases & Cloud**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+
+**Tools & Workflow**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
 </div>
 
 ---
 
-# ⚒️ Tech Arsenal
-
-<div align="center">
-
-## Languages
-
-<img src="https://skillicons.dev/icons?i=java,js,python,c" />
-
-## Frontend
-
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap" />
-
-## Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-
-<img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
-<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-
-## Databases & Deployment
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,vercel,netlify" />
-
-## Tools & Workflow
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
-
-</div>
-
----
-
-# 🏆 Featured Projects
-
-<div align="center">
+## Featured Projects
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-## 🛒 Campus-OLX
+### 🛒 [Campus-OLX](https://campus-olx-web.vercel.app)
+> A campus-scoped marketplace for buying and selling among students
 
-### Real-Time Student Marketplace Platform
+**Tech:** `React.js` `Node.js` `Express.js` `MongoDB` `Tailwind CSS` `JWT` `Socket.io`
 
-A production-style campus marketplace platform where students can securely buy and sell products with real-time communication.
+**Highlights:**
+- Serves **50+ active users** with full CRUD marketplace operations
+- Real-time buyer-seller **chat** powered by Socket.io
+- Secure **JWT authentication** with protected routes
+- Image upload support with responsive React UI
+- RESTful API architecture with scalable MongoDB backend
 
-### ⚡ Key Features
-
-* Real-time buyer-seller chat using Socket.io
-* JWT authentication with protected routes
-* Responsive modern UI with Tailwind CSS
-* MongoDB-powered scalable backend
-* Full CRUD operations for product listings
-* Image upload support
-* Optimized REST API architecture
-
-### 🧠 Engineering Highlights
-
-* Built scalable backend architecture using Express.js
-* Implemented real-time communication layer
-* Structured reusable React components
-* Focused on responsive UI/UX and state management
-
-### 🛠️ Tech Stack
-
-`React` `Node.js` `Express.js` `MongoDB` `Socket.io` `JWT` `Tailwind CSS`
-
-<div align="center">
-
-<a href="https://campus-olx-web.vercel.app">
-<img src="https://img.shields.io/badge/Live_Demo-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
-<a href="https://github.com/PavanBojja33/Campus-OLX">
-<img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
+[![Live Demo](https://img.shields.io/badge/Live-Demo-58A6FF?style=flat-square)](https://campus-olx-web.vercel.app)
+[![GitHub Repo](https://img.shields.io/badge/View-Repo-181717?style=flat-square&logo=github)](https://github.com/PavanBojja33/Campus-OLX)
 
 </td>
+<td width="50%" valign="top">
 
-<td width="50%">
+### 📡 [PeerDrop](https://peer-drop-pi.vercel.app)
+> Serverless browser-to-browser file sharing via WebRTC
 
-## 📡 PeerDrop
+**Tech:** `React` `Node.js` `Socket.io` `simple-peer` `WebRTC`
 
-### Browser-to-Browser File Sharing App
+**Highlights:**
+- Direct **P2P file transfer** — no database, no cloud storage
+- Socket.io **signaling server** for real-time peer discovery
+- **WebRTC** peer connections via simple-peer for encrypted transfer
+- Zero file size limits; fully **private and serverless**
+- Clean responsive UI with live connection status feedback
 
-A serverless peer-to-peer file sharing platform powered by WebRTC for secure and fast direct transfers.
+[![Live Demo](https://img.shields.io/badge/Live-Demo-58A6FF?style=flat-square)](https://peer-drop-pi.vercel.app)
+[![GitHub Repo](https://img.shields.io/badge/View-Repo-181717?style=flat-square&logo=github)](https://github.com/PavanBojja33/PeerDrop)
 
-### ⚡ Key Features
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-* Peer-to-peer encrypted file transfer
-* No cloud storage or database dependency
-* Real-time peer discovery with Socket.io
-* WebRTC implementation using simple-peer
-* Responsive UI with live connection updates
-* Fast direct browser communication
+### 🌍 [Geo-Navigator](https://github.com/PavanBojja33/Geo-Navigator)
+> Interactive geography exploration tool built in HTML/CSS/JS
 
-### 🧠 Engineering Highlights
+**Tech:** `HTML5` `CSS3` `JavaScript`
 
-* Built real-time signaling architecture
-* Implemented WebRTC communication flow
-* Designed scalable peer connection logic
-* Focused on privacy-first file sharing
+**Highlights:**
+- Lightweight, dependency-free frontend project
+- Demonstrates core DOM manipulation and event handling
+- Clean, responsive UI design
 
-### 🛠️ Tech Stack
+[![GitHub Repo](https://img.shields.io/badge/View-Repo-181717?style=flat-square&logo=github)](https://github.com/PavanBojja33/Geo-Navigator)
 
-`React` `Node.js` `Socket.io` `WebRTC` `simple-peer`
+</td>
+<td width="50%" valign="top">
 
-<div align="center">
+### 💱 [Currency-Converter](https://github.com/PavanBojja33/Currency-Converter)
+> Real-time currency conversion using live exchange rate APIs
 
-<a href="https://peer-drop-pi.vercel.app">
-<img src="https://img.shields.io/badge/Live_Demo-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
+**Tech:** `JavaScript` `HTML5` `CSS3` `REST API`
 
-<a href="https://github.com/PavanBojja33/PeerDrop">
-<img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+**Highlights:**
+- Live exchange rate integration via public API
+- Clean, minimal UI with instant conversion
+- Error handling and responsive design
 
-</div>
+[![GitHub Repo](https://img.shields.io/badge/View-Repo-181717?style=flat-square&logo=github)](https://github.com/PavanBojja33/Currency-Converter)
 
 </td>
 </tr>
 </table>
 
-</div>
-
 ---
 
-# 📈 GitHub Analytics
+## GitHub Statistics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=PavanBojja33&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PavanBojja33&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
-
-<br/>
-<br/>
-
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=PavanBojja33&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
-
-</div>
-
----
-
-# 📊 Contribution Graph
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=PavanBojja33&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" />
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/PavanBojja33/PavanBojja33/output/github-contribution-grid-snake-dark.svg" width="100%" />
-
-</div>
-
----
-
-# 🏅 Competitive Programming
-
-<div align="center">
-
-<table>
-<tr>
-<th>Platform</th>
-<th>Profile</th>
-<th>Achievements</th>
-</tr>
-
-<tr>
-<td><b>LeetCode</b></td>
-<td><a href="https://leetcode.com/u/Pavan_Bojja/">Pavan_Bojja</a></td>
-<td>350+ Problems Solved • Contest Rank 1786 • Top 8.2%</td>
-</tr>
-
-<tr>
-<td><b>GitHub</b></td>
-<td><a href="https://github.com/PavanBojja33">PavanBojja33</a></td>
-<td>Active Full-Stack Projects & Open Source Learning</td>
-</tr>
-
-</table>
+<img src="https://github-readme-stats.vercel.app/api?username=PavanBojja33&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&rank_icon=github" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PavanBojja33&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&langs_count=8" height="165"/>
 
 <br/>
 
-<img width="70%" src="https://leetcard.jacoblin.cool/Pavan_Bojja?theme=dark&font=JetBrains%20Mono&ext=heatmap" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=PavanBojja33&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8b949e" width="49%"/>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=PavanBojja33&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=6" width="100%"/>
 
 </div>
 
 ---
 
-# 🎯 Achievements
+## Contribution Activity
 
 <div align="center">
 
-| Achievement                | Details                                    |
-| -------------------------- | ------------------------------------------ |
-| 🎓 Academic Excellence     | CGPA 9.11/10 at CVR College of Engineering |
-| 🧠 DSA Problem Solving     | Solved 350+ coding problems on LeetCode    |
-| 🏆 Competitive Programming | Top 8.2% LeetCode Contest Ranking          |
-| 🚀 Full-Stack Development  | Built scalable MERN stack applications     |
-| 📈 Continuous Learning     | Exploring System Design & AI Development   |
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PavanBojja33&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&hide_border=true&area_color=1f6feb" width="100%"/>
+
+<!-- Snake animation — set up GitHub Actions to generate this -->
+<img src="https://raw.githubusercontent.com/PavanBojja33/PavanBojja33/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
 ---
 
-# 📚 Certifications
+## Competitive Programming
 
 <div align="center">
 
-| Certification                     | Issuer            |
-| --------------------------------- | ----------------- |
-| Become a Full-Stack Web Developer | LinkedIn Learning |
-| Generative AI for Web Developers  | LinkedIn Learning |
+| Platform | Profile | Stats |
+|:---:|:---:|:---:|
+| **LeetCode** | [Pavan_Bojja](https://leetcode.com/u/Pavan_Bojja/) | 350+ problems solved · Contest Rank **1786** (Top **8.2%**) |
+| **GitHub** | [PavanBojja33](https://github.com/PavanBojja33) | 139+ contributions · 17 repositories |
 
+</div>
+
+<div align="center">
+<img src="https://leetcard.jacoblin.cool/Pavan_Bojja?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=8" width="60%"/>
 </div>
 
 ---
 
-# 🌱 Currently Learning
+## Certifications
+
+<details>
+<summary><b>View Certifications</b></summary>
+<br/>
+
+| Certification | Issuer | Date | Link |
+|---|---|---|---|
+| **Become a Full-Stack Web Developer** | LinkedIn Learning | March 2026 | [View Certificate](https://www.linkedin.com/learning/certificates/605261415ce68019b93553b885f8925525134dced30a2db3d48680f0ae2908c4) |
+| **Generative AI for Web Developers** | LinkedIn Learning | March 2026 | [View Certificate](https://www.linkedin.com/learning/certificates/d2afd890b849cdd8453b2721d1e8e7d7dfe29a0c4bf1cd7d8e2366f88b2b4384) |
+
+</details>
+
+---
+
+## Currently Learning
 
 <div align="center">
 
-```txt
-▸ TypeScript
-▸ System Design
-▸ Scalable Backend Architecture
-▸ AI-Assisted Development
-▸ Docker & DevOps Fundamentals
+```
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│   ▸  TypeScript  —  bringing strong typing to JS        │
+│   ▸  System Design  —  scaling distributed systems      │
+│   ▸  AI-Assisted Development  —  LLM & GenAI tools      │
+│   ▸  Docker & DevOps basics  —  containerisation        │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
 ```
 
 </div>
 
 ---
 
-# 🚀 2026 Goals
+## Roadmap
 
-* [ ] Land a high-impact software engineering internship
-* [ ] Solve 500+ DSA problems
-* [ ] Contribute to major open-source projects
-* [ ] Build a large-scale TypeScript project
-* [ ] Learn advanced system design concepts
-* [ ] Strengthen backend scalability knowledge
+<details>
+<summary><b>2025–2026 Goals</b></summary>
+<br/>
 
----
+- [ ] Land a full-stack or SDE internship
+- [ ] Reach 500+ LeetCode problems solved
+- [ ] Contribute to a notable open-source project
+- [ ] Build and deploy a TypeScript + microservices project
+- [ ] Earn AWS Cloud Practitioner certification
+- [ ] Maintain 9.0+ CGPA through graduation
 
-# 🌐 Connect With Me
-
-<div align="center">
-
-<a href="mailto:pavanbojja33@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/pavan-bojja-738762279/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://leetcode.com/u/Pavan_Bojja/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
-
-<a href="https://github.com/PavanBojja33">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
+</details>
 
 ---
 
-# 💡 Developer Philosophy
+## Achievements
 
-<div align="center">
-
-> “Great software is not just about writing code — it’s about solving problems, building experiences, and continuously improving.”
-
-</div>
+- **CGPA 9.11/10** — Consistently top-tier academic performance at CVR College of Engineering
+- **Top 8.2% LeetCode** — Contest Rank 1786 out of 21,000+ active participants
+- **350+ DSA Problems** — Strong command of algorithms across Arrays, Trees, DP, Graphs, and more
+- **Intermediate (98%)** — Sri Chaitanya Junior Kalasala, Hyderabad
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0D1117,25:1F6FEB,50:58A6FF,75:7C3AED,100:0D1117&section=footer" width="100%"/>
+### Let's Connect
 
-### ⭐ If you like my work, consider following me and checking out my repositories!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavan-bojja-738762279/)
+[![Email](https://img.shields.io/badge/Email-pavanbojja33%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pavanbojja33@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Pavan__Bojja-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Pavan_Bojja/)
+
+<br/>
+
+*Open to internships, open-source collaboration, and interesting projects.*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%"/>
 
 </div>
