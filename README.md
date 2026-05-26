@@ -173,9 +173,11 @@ const pavan = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=PavanBojja33&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&rank_icon=github" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PavanBojja33&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&langs_count=8" height="165"/>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PavanBojja33&show_icons=true&theme=github_dark&hide_border=true">
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PavanBojja33&layout=compact&theme=github_dark&hide_border=true">
+</p>
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=PavanBojja33&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8b949e" width="49%"/>
