@@ -209,7 +209,7 @@ const pavan = {
 
 | Platform | Profile | Stats |
 |:---:|:---:|:---:|
-| **LeetCode** | [Pavan_Bojja](https://leetcode.com/u/Pavan_Bojja/) | 350+ problems solved · Contest Rank **1786** (Top **8.2%**) |
+| **LeetCode** | [Pavan_Bojja](https://leetcode.com/u/Pavan_Bojja/) | 400+ problems solved · Contest Rank **1804** (Top **7.6%**) |
 | **GitHub** | [PavanBojja33](https://github.com/PavanBojja33) | 139+ contributions · 17 repositories |
 
 </div>
