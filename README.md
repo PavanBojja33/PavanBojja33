@@ -235,23 +235,6 @@ const pavan = {
 
 ---
 
-## Currently Learning
-
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────────┐
-│                                                         │
-│   ▸  TypeScript  —  bringing strong typing to JS        │
-│   ▸  System Design  —  scaling distributed systems      │
-│   ▸  AI-Assisted Development  —  LLM & GenAI tools      │
-│   ▸  Docker & DevOps basics  —  containerisation        │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
-```
-
-</div>
-
 ---
 
 ## Roadmap
