@@ -257,7 +257,7 @@ const pavan = {
 ## Achievements
 
 - **CGPA 9.11/10** — Consistently top-tier academic performance at CVR College of Engineering
-- **Top 8.2% LeetCode** — Contest Rank 1786 out of 21,000+ active participants
+- **Top 7.6% LeetCode** — Contest Rank 1804 out of 8,74,000+ participants
 - **350+ DSA Problems** — Strong command of algorithms across Arrays, Trees, DP, Graphs, and more
 - **Intermediate (98%)** — Sri Chaitanya Junior Kalasala, Hyderabad
 
