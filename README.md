@@ -48,7 +48,6 @@ const pavan: Developer = {
     "RESTful API Architecture",
     "Real-Time Systems (WebRTC / Socket.io)",
   ],
-  learning  : ["TypeScript", "System Design", "Docker"],
   openTo    : ["SDE Internships", "Open Source", "Freelance"],
   principle : "Clean code is not a preference — it's a standard.",
 };
