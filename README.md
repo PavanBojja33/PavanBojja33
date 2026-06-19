@@ -12,7 +12,7 @@
 
 <br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pavan%20Bojja-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavan-bojja-738762279/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pavan%20Bojja-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavan-bojja/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Top%207.6%25-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Pavan_Bojja/)
 [![GitHub](https://img.shields.io/badge/GitHub-PavanBojja33-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PavanBojja33)
 [![Gmail](https://img.shields.io/badge/Gmail-pavanbojja33-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pavanbojja33@gmail.com)
